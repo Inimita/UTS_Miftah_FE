@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UTS_Miftah_FE/static/css/main.cd169bb2.css",
+    "main.js": "/UTS_Miftah_FE/static/js/main.e7092dd1.js",
+    "index.html": "/UTS_Miftah_FE/index.html",
+    "main.cd169bb2.css.map": "/UTS_Miftah_FE/static/css/main.cd169bb2.css.map",
+    "main.e7092dd1.js.map": "/UTS_Miftah_FE/static/js/main.e7092dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd169bb2.css",
+    "static/js/main.e7092dd1.js"
+  ]
+}
